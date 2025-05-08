@@ -12,3 +12,4 @@ Note: ผมเขียน Script SQL ใน **DBeaver** ซึ่งเป็�
       - **SQL Skills Used**: Data Cleaning, Data Transformation, Data Type Conversion, Handling Missing/Incorrect Values, Create new table,Window Functions.
       - [คลิกดู SQL Script](clean_cafe_sales.sql)
       - [คลิกดู ข้อมูลต้นฉบับ](https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training)
+      - [คลอกดู ข้อมูลหลัง clean แล้ว](clean_cafe_sales.csv)
